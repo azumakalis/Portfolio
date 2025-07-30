@@ -1,17 +1,10 @@
-<<<<<<< HEAD
-# React + Vite
+# SOC Endterm Submission
+This is a Portfolio project I created using the concepts I learned during the SOC Term. My project was "Interactive 3D Web Experience with Three.js". This involved learning mostly about HTML, CSS and JS during the first month, and the next month involved learning about three.js, and making a project using them. I also learnt about React.js framework. In fact this project uses it. Steps to run this project are to - 
+* Download all the files in this repository.
+* Open this repository in VSCode.
+* Open a new terminal.
+* Run the following commands in order - npm install, npm run dev.
+* This should open a localhost link in the terminal, open the link.
+* To quit, press q+enter.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Portfolio
-This is my submission for the SOC Endterm.
->>>>>>> 1642dc9a0517f49929f4e9497e39d0ec6689d36b
+The Home Screen involves an island with a plane flying in front of it. Dragging along the island causes the plane to fly along the island in the direction of dragging the cursor. In different regions of the island, popups appear that when pressed take the user to other webpages. Instead of dragging, one can also use arrow keys to fly along the island. There is not much content on the other pages except some links to some other projects and socials, but most of the project's focus is on the home page. I learned a lot during the SOC Term and would also like to continue developing this website for better interaction and design.
